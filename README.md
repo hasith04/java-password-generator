@@ -23,3 +23,5 @@ A Java console application that generates random passwords and evaluates passwor
 - Passwords are generated with `SecureRandom`.
 - Strength is scored by use of uppercase, lowercase, numbers, symbols, and length thresholds.
 - The application validates input and requests corrections when needed.
+
+![Screenshot](/workspaces/java-password-generator/screenshots/main-ui.png)
